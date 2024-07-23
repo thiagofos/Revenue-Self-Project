@@ -1,7 +1,7 @@
 # Revenue- Project
 Objective is to  calculate year-end income statment based on Revenue
 
-## Calculate of 
+## Calculate 
 - 1 Adjustment
 - 2 Tax Due
 - 3 Paye Result
